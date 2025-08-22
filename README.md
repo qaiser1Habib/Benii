@@ -1,6 +1,6 @@
-# benii
+# MindAlign AI
 
-Welcome to benii! This repository contains a Vite-based web application with separate backend, admin and website interfaces.
+Welcome to MindAlign AI! This repository contains a Vite-based web application with separate backend, admin and website interfaces.
 
 ## Table of Contents
 
@@ -99,3 +99,4 @@ Contributions to surplusList are greatly appreciated! If you discover a bug or h
 ## License
 
 This project operates under the [MIT License](LICENSE).
+
