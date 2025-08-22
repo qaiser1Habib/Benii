@@ -1,0 +1,10 @@
+[
+   { "label": "Aug", "revenue": 40 },
+   { "label": "Sep", "revenue": 60 },
+   { "label": "Oct", "revenue": 30 },
+   { "label": "Nov", "revenue": 40 },
+   { "label": "Dec", "revenue": 60 },
+   { "label": "Feb", "revenue": 50 },
+   { "label": "Mar", "revenue": 40 },
+   { "label": "Apr", "revenue": 50 }
+]

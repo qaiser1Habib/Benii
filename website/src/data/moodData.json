@@ -1,0 +1,22 @@
+[
+	{
+		"label": "Happy",
+		"revenue": 4
+	},
+	{
+		"label": "Good",
+		"revenue": 6
+	},
+	{
+		"label": "Normal",
+		"revenue": 3
+	},
+	{
+		"label": "Bad",
+		"revenue": 4
+	},
+	{
+		"label": "Awful",
+		"revenue": 6
+	}
+]

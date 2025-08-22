@@ -1,0 +1,298 @@
+@media screen and (max-width: 1920px) {
+}
+
+@media screen and (max-width: 1800px) {
+	.user-dashboard-side-menu-card {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 1600px) {
+}
+
+@media screen and (max-width: 1565px) {
+	.helpline-bg .blur-box {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 1440px) {
+	.user-chat-text {
+		min-width: 0px;
+	}
+	.benii-chat-text {
+		min-width: 0px;
+	}
+}
+
+
+@media screen and (max-width: 1200px) {
+	.ourApproach {
+		width: 35%;
+	}
+	.signup-bot-img-container {
+		margin-top: 0px;
+	}
+	.signup-side-logo {
+		max-height: 120px;
+	}
+}
+
+@media screen and (max-width: 993px) {
+	.h1 {
+		font-size: 30px;
+	}
+	.home-banner-img {
+		width: auto;
+		height: auto;
+		border-radius: 20px;
+	}
+	.home-banner-img img {
+		width: 100%;
+	}
+	.home-banner-img-text {
+		background-color: rgba(255, 255, 255, 0.3);
+		backdrop-filter: blur(10px);
+		-webkit-backdrop-filter: blur(10px);
+		border-radius: 20px;
+		padding: 22px;
+	}
+	.choose-us-card {
+		height: auto;
+	}
+	.px-lg-300 {
+		padding: 0px;
+	}
+	.w-lg-100 {
+		width: 100% !important;
+	}
+	.ourApproach {
+		width: 45%;
+	}
+
+	.price-card-title {
+		font-size: 24px;
+	}
+}
+
+@media screen and (max-width: 769px) {
+	.h1 {
+		font-size: 20px;
+	}
+	p {
+		font-size: 12px;
+	}
+
+	.card-para {
+		font-size: 14px;
+	}
+
+	.home-banner-img {
+		width: 75%;
+		height: auto;
+		border-radius: 20px;
+	}
+	.home-banner-img-text {
+		background-color: rgba(255, 255, 255, 0.3);
+		backdrop-filter: blur(10px);
+		-webkit-backdrop-filter: blur(10px);
+		border-radius: 10px;
+		padding: 12px 22px;
+	}
+	.fs-15px {
+		font-size: 12px;
+	}
+	.ourApproach {
+		width: 60%;
+	}
+
+	.resource-simple-card {
+		height: 500px !important;
+	}
+	.signup-page {
+		height: auto;
+	}
+	.w-auto {
+		width: auto;
+	}
+	.h-auto {
+		height: auto;
+	}
+	.min-h-auto {
+		min-height: auto;
+	}
+	h1 {
+		font-size: 30px !important ;
+	}
+
+	.fs-32px {
+		font-size: 22px;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.ourApproach {
+		width: 70%;
+	}
+	.resource-simple-card {
+		height: 450px !important;
+	}
+	.auth-main-image {
+		width: auto;
+	}
+	h1 {
+		font-size: 20px !important ;
+	}
+	.p-jc-between.p-ai-center {
+		padding: 10px 5px !important;
+	}
+	.p-input-icon-left {
+		width: 200px;
+	}
+	.p-inputtext.p-component {
+		width: 200px;
+	}
+	.fs-36px {
+		font-size: 22px;
+	}
+	.fs-26px {
+		font-size: 18px;
+	}
+	.fs-21px {
+		font-size: 16px;
+	}
+}
+
+@media screen and (max-width: 426px) {
+	.choose-us-blur-circle {
+		background-color: rgba(255, 255, 255, 0.3);
+		backdrop-filter: blur(10px);
+		-webkit-backdrop-filter: blur(10px);
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+		left: -20%;
+	}
+	.ourApproach {
+		width: 92%;
+	}
+
+	.resource-simple-card {
+		max-height: 350px !important;
+	}
+}
+
+/* custom bootstrap css */
+
+@media screen and (min-width: 400px) {
+	.px-xs-5 {
+		padding-left: 3rem !important;
+		padding-right: 3rem !important;
+	}
+	.col-xs-10 {
+		width: 83.33% !important;
+	}
+	.chat-box-message-box-height{
+		height: 80%;
+	}
+}
+@media screen and (max-width: 400px) {
+
+	.chat-box-message-box-height{
+		height: 83%;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.chat-box-message-box-height{
+		height: 88%;
+	}
+}
+@media screen and (min-width: 768px) {
+	.chat-box-message-box-height{
+		height: 82%;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.fs-xl-24px {
+		font-size: 24px;
+	}
+	.w-xl-100 {
+		width: 100% !important;
+	}
+	.w-xl-83-33 {
+		width: 83.33% !important;
+	}
+	.w-xl-91-66 {
+		width: 91.66% !important;
+	}
+	.w-xl-74-99 {
+		width: 74.99% !important;
+	}
+	.h-xl-100{
+		height: 100%;
+	}
+}
+
+@media screen and (min-width: 1700px) {
+	.col-xxxl-1 {
+		width: 8.33%;
+	}
+	.col-xxxl-2 {
+		width: 16.66%;
+	}
+	.col-xxxl-3 {
+		width: 25%;
+	}
+	.col-xxxl-4 {
+		width: 33.33%;
+	}
+	.col-xxxl-5 {
+		width: 41.66%;
+	}
+	.col-xxxl-6 {
+		width: 50%;
+	}
+	.col-xxxl-7 {
+		width: 58.33%;
+	}
+	.col-xxxl-8 {
+		width: 66.66%;
+	}
+	.col-xxxl-9 {
+		width: 75%;
+	}
+	.col-xxxl-10 {
+		width: 83.33%;
+	}
+	.col-xxxl-11 {
+		width: 91.66%;
+	}
+	.col-xxxl-12 {
+		width: 100%;
+	}
+	.mt-xxxl-0 {
+		margin-top: 0px !important;
+	}
+
+	.d-xxxl-none {
+		display: none !important;
+	}
+
+	.d-xxxl-block {
+		display: block !important;
+	}
+
+	.fs-xxxl-22px {
+		font-size: 22px;
+	}
+
+	.fs-xxxl-18px {
+		font-size: 18px;
+	}
+
+	.my-xxxl-0 {
+		margin: 0px auto !important;
+	}
+}
